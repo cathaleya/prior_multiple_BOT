@@ -23,6 +23,7 @@ Before you begin, ensure you have the following installed:
    git clone https://github.com/cathaleya/prior_multiple_BOT.git
    cd prior_multiple_BOT
 2. **Install the required modules: Run the following command to install the necessary dependencies:
+
    npm install
 
 3.** Create configuration files:
