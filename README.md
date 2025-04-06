@@ -24,7 +24,9 @@ Before you begin, ensure you have the following installed:
    cd prior_multiple_BOT
 2. **Install the required modules: Run the following command to install the necessary dependencies:
 
-   npm install
+  - npm install
+
+  - npm install dotenv blessed figlet ethers https-proxy-agent
 
 3.** Create configuration files:
 
